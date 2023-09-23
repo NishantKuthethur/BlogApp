@@ -31,3 +31,4 @@ D:\W folder\BlogApp\blogCloneAPI\obj\Debug\net8.0\refint\blogCloneAPI.dll
 D:\W folder\BlogApp\blogCloneAPI\obj\Debug\net8.0\blogCloneAPI.pdb
 D:\W folder\BlogApp\blogCloneAPI\obj\Debug\net8.0\blogCloneAPI.genruntimeconfig.cache
 D:\W folder\BlogApp\blogCloneAPI\obj\Debug\net8.0\ref\blogCloneAPI.dll
+D:\W folder\BlogApp\blogCloneAPI\obj\Debug\net8.0\blogCloneAPI.sourcelink.json

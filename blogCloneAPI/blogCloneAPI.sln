@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blogCloneAPI", "blogCloneAPI.csproj", "{38350E73-2646-42E0-9368-20EE16EF55F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38350E73-2646-42E0-9368-20EE16EF55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38350E73-2646-42E0-9368-20EE16EF55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38350E73-2646-42E0-9368-20EE16EF55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38350E73-2646-42E0-9368-20EE16EF55F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294780C7-9075-49F9-BA0A-3237F94F88C5}
+	EndGlobalSection
+EndGlobal
