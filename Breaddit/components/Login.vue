@@ -13,7 +13,7 @@
               </div>
             </div>
             <div class="login-redirect-controls">
-              <button type="submit" class="submit-button">Login</button>
+              <button type="submit" class="submit-button" @click="login">Login</button>
               <div class="login-password-controls">
                 <a href="#" class="teal-font forgot-password">Forgot Password?</a>
                 <div class="remember-me" >
@@ -47,7 +47,7 @@ methods: {
   async login() {
 
     try {
-
+      console.log('login');
       // const response = await this.$axios.post('User/Login', {
       //   Username: this.username,
       //   Password: this.password
